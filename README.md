@@ -36,3 +36,7 @@ Data Cleaning
 • Credit card payments represented the majority of transactions.
 
 • A small number of products contribute significantly to overall revenue.
+
+**Business Value**
+
+This dashboard helps businesses monitor sales performance, identify high-performing products, and understand customer payment preferences to support data-driven decision making.
