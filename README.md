@@ -4,22 +4,35 @@ This project analyzes retail sales data to identify key revenue trends and produ
 ![image alt](https://github.com/PavaniAlla/Sales-Data-Analysis-Dashboard-using-Excel/blob/83510f5b5cd68079eaa2c88e4475fe8b3fa483e8/Sales%20Pivot%20Analysis.png)
 
 **Tools Used**
-Microsoft Excel,
-Pivot Tables,
-Pivot Charts,
-Slicers,
+
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts
+
+Slicers
+
 Data Cleaning
 
 **Dashboard Features**
+
 • Revenue analysis by region and product category
+
 • Payment method distribution visualization
+
 • Monthly sales trend analysis
+
 • Top-performing product identification
+
 • Interactive filters using slicers
 
 **Key Insights**
 
 • North America generated the highest revenue among all regions.
+
 • Electronics category contributed the largest share of total revenue.
+
 • Credit card payments represented the majority of transactions.
+
 • A small number of products contribute significantly to overall revenue.
